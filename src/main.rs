@@ -60,5 +60,5 @@ fn play_gif_in_terminal(dir: &str, scale: u32) {
 }
 
 fn main() {
-    play_gif_in_terminal("dance.gif", 4);
+    play_gif_in_terminal("skellie.gif", 4);
 }
